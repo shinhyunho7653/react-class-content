@@ -1,0 +1,63 @@
+/* NaverBlogPage.css */
+
+h1{
+  text-align: center;
+  margin: 30px;
+  font-size: 40px;
+}
+
+.naverblog{
+  width: 75%;
+  margin: 50px auto;
+}
+
+.all{
+  color: green;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+ul li{
+  font-size: 18px;
+}
+
+.nav-bar{
+  background-color: lightgray;
+  height: 2px;
+  margin: 10px 0;
+}
+
+.blog-text h3{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.blog-text1{
+  padding-right: 30px;
+  margin-bottom: 10px;
+  color: rgb(110, 110, 110);
+}
+
+.blog-list{
+  display: flex;
+  margin-top: 20px;
+}
+
+.blog-img img{
+  width: 200px;
+  height: 200px;
+}
+
+.blog-text2{
+  color: rgb(160, 160, 160);
+}
+
+.hr-bar{
+  height: 1px;
+  background-color: rgb(231, 231, 231);
+  margin: 20px 0;
+}
