@@ -1,0 +1,33 @@
+/* index.css */
+
+*{
+  margin: 0;
+  padding: 0s;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+ul{
+  list-style: none;
+}
+
+@media(max-width : 740px){
+  *{
+    font-size: 12px;
+  }
+}
+
+/* AdminPage 디자인 */
+
+.max-container{
+  width: 1000px;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 30px;
+  background-color: beige;
+  border-radius: 40px;
+}
+
+.nav{
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+/* index2.css */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+/* GameCharList.jsx 디자인 */
+
+.list{
+  display: flex;
+}
+
+.card{
+  text-align: center;
+  border: 1px solid grey;
+  margin: 20px 10px;
+  padding: 10px 20px;
+}
+
+.card img{
+  width: 150px;
+  border: 1px solid lightgray;
+}
